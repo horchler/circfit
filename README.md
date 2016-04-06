@@ -6,7 +6,7 @@ circfit
 
 --------
 
-[```CIRCFIT(X,Y)```](https://github.com/horchler/circfit/blob/master/circfit.m) returns scalar radius ```R``` of a fitted circle. ```X``` and ```Y``` are 1-D arrays of position data in a rectilinear coordinate system. ```X``` and ```Y``` must be the same length and must contain at least three non-colinear points in order for a valid solution to be found. The function can also return position of the center of the fitted circle and the root mean squared error of the fit.  
+[```circfit(X,Y)```](https://github.com/horchler/circfit/blob/master/circfit.m) returns scalar radius ```R``` of a fitted circle. ```X``` and ```Y``` are 1-D arrays of position data in a rectilinear coordinate system. ```X``` and ```Y``` must be the same length and must contain at least three non-colinear points in order for a valid solution to be found. The function can also return position of the center of the fitted circle and the root mean squared error of the fit.  
 
 Additional functions to fit curvature, check colinearity, calculate root mean squared error, and plot the fitted result are included.
 &nbsp;  
