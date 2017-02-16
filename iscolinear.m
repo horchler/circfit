@@ -56,7 +56,7 @@ function bool=iscolinear(varargin)
 %
 %   See also RANK, SYM/RANK, SVD, SYM, VPA.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 5-12-7
+%   Andrew D. Horchler, horchler @ gmail . com, Created 5-12-7
 %   Revision: 1.4, 4-6-16
 
 

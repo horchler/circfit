@@ -25,7 +25,7 @@ function [r,varargout]=circfit(x,y)
 %       r2_90deg=circfit(x2(1:floor(lt/2)),y2(1:floor(lt/2)))
 %       r2_180deg=circfit(x2,y2)
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 5-12-7
+%   Andrew D. Horchler, horchler @ gmail . com, Created 5-12-7
 %   Revision: 1.3, 4-6-16
 
 

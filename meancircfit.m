@@ -12,7 +12,7 @@ function r=meancircfit(x,y,w)
 %
 %   See also CIRCFIT
 
-%   Andrew D. Horchler, adh 9@ case . edu, Created 5-12-7
+%   Andrew D. Horchler, horchler @ gmail . com, Created 5-12-7
 %   Revision: 1.2, 4-6-16
 
 

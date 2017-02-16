@@ -10,7 +10,7 @@ function err=circrmse(x,y,r,xc,yc)
 %
 %   See also CIRCFIT, PLOTCIRCFIT
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 5-12-7
+%   Andrew D. Horchler, horchler @ gmail . com, Created 5-12-7
 %   Revision: 1.2, 4-6-16
 
 

@@ -20,7 +20,7 @@ function  [k,err]=curvaturefit(x,y)
 %       k2_90deg=curvaturefit(x2(1:floor(lt/2)),y2(1:floor(lt/2)))
 %       k2_180deg=curvaturefit(x2,y2)
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 5-12-7
+%   Andrew D. Horchler, horchler @ gmail . com, Created 5-12-7
 %   Revision: 1.3, 4-6-16
 
 

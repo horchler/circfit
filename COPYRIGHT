@@ -1,8 +1,8 @@
-circfit - Andrew D. Horchler, adh9 @ case . edu
+circfit - Andrew D. Horchler, horchler @ gmail . com
  * Matlab function for least squares fitting of X-Y data to a circle
 
 
-Copyright © 2007-2016, Andrew D. Horchler
+Copyright © 2007-2017, Andrew D. Horchler
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
