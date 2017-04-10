@@ -1,8 +1,8 @@
 circfit
 ========
-#####Matlab function for least squares fitting of two-dimensional data to a circle.#####
-######Version 1.3, 4-6-16######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/circfit/archive/master.zip)#####
+##### Matlab function for least squares fitting of two-dimensional data to a circle.
+###### Version 1.3, 4-6-16
+##### Download Repository: [ZIP Archive](https://github.com/horchler/circfit/archive/master.zip)
 
 --------
 
